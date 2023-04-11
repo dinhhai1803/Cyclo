@@ -1,0 +1,86 @@
+.blur-bg {
+	width: 100%;
+  height: 100%;
+  /*background: url(../images/HoiAn.jpg) no-repeat center center fixed;*/
+  background-size: contain;
+  filter: blur(.5px) brightness(90%);
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+
+.route__begin ,
+.route__end {
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-bottom: 1.5rem;
+}
+
+.route__begin_location,
+.route__end_location {
+  color: #333;
+  padding-bottom: 3rem;
+}
+
+.route__begin p,
+.route__end p {
+  display: inline-block;
+  background : #22b3c1;
+  padding: 0.5rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 2.4rem;
+  margin-right: 14rem;
+  float: right;
+  color: aliceblue;
+  font-size: 1.7rem;
+  margin-top: -.8rem;
+}
+
+.col-lg-12 h2 {
+  padding-bottom: 2rem;
+}
+
+.route__begin_location i,
+.route__end_location i {
+  color: rgb(209, 10, 10);
+}
+
+.route__distance,
+.route__time,
+.route__price{
+  color: #333;
+  font-size: 1.5rem;
+  width: 70%;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    padding: .5rem;
+    border-bottom: 1px solid rgb(194, 181, 181);
+}
+
+.route__distance p,
+.route__time p,
+.route__price p {
+  display: inline-block;
+  float: right;
+  margin-right: 2rem;
+  color: #333;
+  margin-top: .3rem;
+}
+
+.route__distance i,
+.route__time i,
+.route__price i{
+  color: #22b3c1;
+  padding-right: 1rem;
+}
+
+.p-left{
+  padding-left: 8rem;
+}
+
+
