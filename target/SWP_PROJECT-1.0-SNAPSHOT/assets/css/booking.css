@@ -1,0 +1,254 @@
+.reservation-form {
+    margin: -140px 0px 120px 0;
+  }
+
+.reservation_map {
+    height: 33rem;
+}
+
+.reservation-form #map {
+    margin-bottom: -6px;
+    height: 100%;
+    position: relative;
+}
+
+.station {
+
+}
+
+.station_bound{
+    position: relative;
+}
+
+.station_address{
+    color: rgb(219, 224, 230);
+    font-size: 4rem;
+    position: absolute;
+    top: 30px;
+    left: 12px;
+}
+
+.station_address:hover {
+    color: rgb(100, 163, 239);
+}
+
+.station_icon{
+    color: rgb(9, 24, 123);
+    font-size: 26px;
+    position: absolute;
+    top: 39px;
+    left: 20px;
+}
+
+
+.station__number {
+    font-size: 22px;
+    margin-bottom: 10px;
+    width: 7rem;
+}
+
+.station_1 {
+    position: absolute;
+    top: -.5%;
+    left: 3%;
+}
+
+.station_2 {
+    position: absolute;
+    top: -.5%;
+    left: 49%;
+}
+
+.station_3 {
+    position: absolute;
+    top: 2%;
+    left: 86%;
+}
+
+.station_4 {
+    position: absolute;
+    top: 29.5%;
+    left: 6%;
+}
+
+.station_5{
+    position: absolute;
+    top: 32.5%;
+    left: 50%;
+}
+
+.station_6 {
+    position: absolute;
+    top: 22%;
+    left: 89%;
+}
+
+.station_7 {
+    position: absolute;
+    top: 58%;
+    left: 50%;
+}
+
+.station_8 {
+    position: absolute;
+    top: 47%;
+    left: 92%;
+}
+
+/* Station_match */
+
+.station__match i {
+    color: rgb(6, 171, 75);
+    font-size: 30px;
+}
+
+.station__match_12_1 {
+    position: absolute;
+    top: 17%;
+    left: 5%;
+}
+
+.station__match_12_2 {
+    position: absolute;
+    top: 16.5%;
+    left: 10%;
+}
+
+.station__match_12_3 {
+    position: absolute;
+    top: 16%;
+    left: 15%;
+}
+
+.station__match_12_4 {
+    position: absolute;
+    top: 16%;
+    left: 20%;
+}
+
+.station__match_12_5 {
+    position: absolute;
+    top: 16.5%;
+    left: 25%;
+}
+
+.station__match_12_6 {
+    position: absolute;
+    top: 16.5%;
+    left: 30%;
+}
+
+.station__match_12_7 {
+    position: absolute;
+    top: 16.5%;
+    left: 35%;
+}
+
+.station__match_12_8 {
+    position: absolute;
+    top: 16.5%;
+    left: 40%;
+}
+
+.station__match_12_9 {
+    position: absolute;
+    top: 16.5%;
+    left: 45%;
+}
+
+.station__match_12_10 {
+    position: absolute;
+    top: 16.5%;
+    left: 50%;
+}
+
+.station__match_12{
+    width: 45%;
+    top: 15%;
+    left: 7%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_14{
+    width: 14%;
+    top: 21%;
+    left: -3%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_15{
+    width: 47%;
+    top: 19%;
+    left: 3%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_23{
+    width: 38%;
+    top: 16.5%;
+    left: 51%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_25{
+    width: 6%;
+    top: 24.5%;
+    left: 52%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_36{
+    width: 8%;
+    top: 18.5%;
+    left: 88%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_47{
+    width: 42%;
+    top: 41%;
+    left: 10%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_56{
+    width: 41%;
+    top: 36.5%;
+    left: 52%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_57{
+    width: 6%;
+    top: 48.5%;
+    left: 51.5%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_68{
+    width: 8%;
+    top: 35.5%;
+    left: 91.5%;
+    position: absolute;
+    background: transparent;
+}
+
+.station__match_78{
+    width: 43%;
+    top: 64%;
+    left: 52.5%;
+    position: absolute;
+    background: transparent;
+}
+
+
+
