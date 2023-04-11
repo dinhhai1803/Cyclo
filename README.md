@@ -1,7 +1,7 @@
 # Cyclo
 ## Description
 
-### This is a website for travelers, conveniently served when choosing a specific route for their trip and also their cyclo river.--
+### This is a website of booking cyclos for travel which enables customers to choose travel destinations and routes, travel companies to offer services and manage revenue, and cyclo riders to receive booking notifications and manage work income. --
 
 ### Screenshoots
 ![HA-1](https://user-images.githubusercontent.com/87563979/231052852-d0d790e6-6112-45bc-a0f6-f93375f5b742.png)
@@ -13,7 +13,7 @@
 ### Website providing travel services by cyclo towards the 3 main actors:
  - Allow customers who love to travel can choose specific travel destinations and routes 
  - Allow travel companies to provide travel services to customers and manage revenue.
- - Allow cyclo riders to receive notification of booking and manage income based on their work.
+ - Allow cyclo riders to receive notification of booking and manage income based on their work. 
  
  
  ### Some of the main functions
